@@ -1,8 +1,16 @@
+-- This file was automatically generated for the LuaDist project.
+
 package = "ffiex"
 version = "0.2.0-8"
+-- LuaDist source
 source = {
-  url = "git://github.com/umegaya/ffiex.git",
+  tag = "0.2.0-8",
+  url = "git://github.com/LuaDist-testing/ffiex.git"
 }
+-- Original source
+-- source = {
+--   url = "git://github.com/umegaya/ffiex.git",
+-- }
 description = {
   summary = "extend luajit ffi module to give more affinity to C codes",
   detailed = [[
