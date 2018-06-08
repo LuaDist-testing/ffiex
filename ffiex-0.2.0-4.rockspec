@@ -1,10 +1,10 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "ffiex"
-version = "0.2.0-3"
+version = "0.2.0-4"
 -- LuaDist source
 source = {
-  tag = "0.2.0-3",
+  tag = "0.2.0-4",
   url = "git://github.com/LuaDist-testing/ffiex.git"
 }
 -- Original source
